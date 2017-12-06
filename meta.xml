@@ -1,0 +1,7 @@
+<meta>
+    <info name="Combat Helmets" author="rootcause" type="script" />
+
+    <!-- Files -->
+    <script src="Main.cs" type="server" lang="csharp" />
+    <script src="CombatHelmets.js" type="client" lang="javascript" />
+</meta>
